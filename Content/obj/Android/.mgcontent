@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Codes/projects/BreakOut_Android/BreakOut_Android/Content/ball.png</File>
+    <File>D:/Codes/projects/BreakOut_Android/BreakOut_Android/Content/block.png</File>
+    <File>D:/Codes/projects/BreakOut_Android/BreakOut_Android/Content/paddle.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,11 @@
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\BreakOut_Android.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\Java.Interop.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\Mono.Android.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\mscorlib.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\OpenTK-1.0.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\System.Core.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\System.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\System.Xml.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\MonoGame.Framework.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Codes\projects\BreakOut_Android\BreakOut_Android\obj\Release\android\assets\System.ServiceModel.Internals.dll
